@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kaiju.iml" filepath="$PROJECT_DIR$/.idea/modules/Kaiju.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kaiju_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Kaiju_main.iml" group="Kaiju" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kaiju_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Kaiju_test.iml" group="Kaiju" />
+    </modules>
+  </component>
+</project>
